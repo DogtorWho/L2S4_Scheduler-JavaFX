@@ -26,7 +26,7 @@ import javafx.stage.FileChooser.ExtensionFilter;
 
 public class Controller_MainPage {
 
-	// ----- valeurs envoy�es dans la fonction finale :
+	// ----- valeurs envoyées dans la fonction finale :
 	private int choixBackfilling; // 0 = non | 1 = oui
 	private int choixTri; // 0 = OList | 1 = BSTree | 2 = EBSTree
 	private int choixOrdre; // 0 = SPT | 1 = LPT | 2 = WSPT | 3 = FCFS
